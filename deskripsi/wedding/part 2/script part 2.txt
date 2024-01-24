@@ -1,0 +1,18 @@
+halo selamat datang kembali di channel haus coding
+ini adalah playlist tutorial membuat wedding invitation
+part 2 - Door Section
+
+oke langsung saja buka kembali sublime text nya dan jalankan apache xampp nya
+
+pada tag body kita tambahkan class overflow-hidden, ini berfungsi untuk menghilangkan scroll x dan y
+kemudian kita menambahkan music dan juga efek suara pintu
+disini kita masukkan music nya kemudian kita tambahkan atribut loop dan class music
+
+dan untuk efek suara nya disini kita tidak perlu loop dan menambahkan class sound-door
+ 
+
+lalu kita membuat div dengan id door-section dengan class open dan atribut onclick mulai()
+jadi nanti kita akan membuat function mulai pada javascript kita
+
+
+

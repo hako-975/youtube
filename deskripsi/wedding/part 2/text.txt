@@ -1,0 +1,82 @@
+Link Source Code / mentahan:
+https://trakteer.id/hako975/showcase/source-code-website-wedding-responsive-1RSP8
+
+Tutorial ini adalah panduan lengkap bagi mereka yang ingin menciptakan situs web undangan pernikahan yang elegan dan personal. Dengan langkah-langkah yang jelas dan didukung oleh contoh konkret, Anda akan dipandu melalui proses pembuatan situs web undangan pernikahan yang indah. Tutorial ini memberikan wawasan mendalam tentang bagaimana menggabungkan elemen-elemen HTML, CSS, JS untuk menciptakan pengalaman undangan pernikahan yang tak terlupakan.
+
+Bagian penting yang ada pada Website Wedding Invitation:
+- Sambutan
+- Tanggal Acara
+- Lokasi Acara
+- Love Story
+- Music yang bisa di toggle on/off
+- Gallery
+- Wedding Gift berupa no rekening pengantin
+- RSVP yaitu untuk melakukan konfirmasi kehadiran tamu
+- Penutup
+
+Teknologi yang digunakan:
+- Bootstrap 5
+- Google Font
+- Google Maps
+- Google Calendar
+- AOS
+- Font Awesome 6
+- Jquery 3
+- Lightbox 2
+- SweetAlert 2
+- Masonry Bootstrap
+
+Momen:
+0:00 Intro
+0:13 Membuka Sublime Text dan XAMPP
+0:32 Membuat Door Section
+3:00 CSS pada Door Section
+9:29 JS pada Door Section
+14:18 Uji coba jalankan server localhost
+14:32 Penutup
+
+Link Download XAMPP:
+https://www.apachefriends.org/download.html
+
+Link Download Sublime Text 4:
+https://www.sublimetext.com/download
+
+Link Bootstrap 5:
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+Link Google Font:
+https://fonts.google.com/
+
+Link AOS:
+https://michalsnik.github.io/aos/
+
+Link Lightbox2:
+https://cdnjs.com/libraries/lightbox2
+
+Link Font Awesome 6:
+https://cdnjs.com/libraries/font-awesome
+
+Link jQuery 3:
+https://releases.jquery.com/
+
+Link SweetAlert2:
+https://www.jsdelivr.com/package/npm/sweetalert2
+
+Link Masonry Bootstrap:
+https://getbootstrap.com/docs/5.0/examples/masonry/
+
+Nyetak? Error mulu?
+Langsung saja tanyakan di discord:
+https://discord.gg/hdVYKE9Rk7
+
+Link Trakteer:
+https://trakteer.id/hako975/tip
+Link Saweria:
+https://saweria.co/hako975
+
+
+Hashtag:
+#WeddingInvitation #ResponsiveDesign #WebDevelopment #HTML #CSS #JavaScript #Tutorial #WebDesign #ResponsiveWeddingWebsite #CodeTutorial #FrontendDevelopment #WeddingWebsite #CodingTutorial #DesignTutorial #HTML5 #CSS3 #ResponsiveLayout #WebDevTutorial #WeddingInvitationWebsite #TutorialYouTube #WebsiteDesign #ProgrammingTutorial #Coding #WebsiteTutorial #UIUX #WebProgramming #LearnCoding #WebTutorial #WeddingTech #TechTutorial #DIYWedding #CodeLearning #WeddingPlanning #CodingTips #HTMLTutorial #CSSTutorial #JavaScriptTutorial #WebsiteLayout #DigitalInvitation #ProgrammingTips #ResponsiveUI #FrontendDesign #WeddingTechTips #WebDesignTips #CodingForBeginners #OnlineInvitation #ProgrammingBeginner #WeddingWebsiteDesign #DIYWebsite #TechForWeddings #LearnHTML #LearnCSS #WebDevTips #InvitationDesign #CodeFromScratch #WebsiteDevelopment #DIYTech #CSSLayout #JavaScriptDesign #WeddingInvitationIdeas #TechDIY #CodingJourney #ResponsiveWeb #ProgrammingJourney #WeddingWebsiteIdeas #TechSavvyWedding #WebDevelopmentTips #CodeChallenge #CreativeInvitations #ResponsiveCoding #WeddingTechIdeas #WebsiteBuilding #DIYWebDesign #ProgrammingChallenge #WeddingInvitationDIY #CodingProject #WebDesignIdeas #TechWedding #HTMLCSSJS #DIYWebsiteDesign #CodingSuccess #WeddingTechTrends #WebDevJourney #LearnJavaScript #DIYWebDevelopment #CodingSkills #WebsiteInspiration #TechInWeddings #HTMLCoding #CSSDesign #JavaScriptDevelopment #WeddingTechInspiration #WebDevProject #DIYWebsiteBuilding #ProgrammingInspiration #CreativeWeddingTech #WebsiteCreation #TechSavvyCouples #WeddingInvitationTrends #CodeInspiration
+
+Hashtag:
+Undangan pernikahan online,Desain undangan pernikahan,Membuat website pernikahan,Desain web undangan,Tutorial membuat undangan,Web pernikahan interaktif,Desain undangan modern,Wedding site tutorial,Website undangan interaktif,HTML CSS untuk undangan,Tips desain undangan,Membuat web pernikahan unik,Love story website tutorial,Tutorial website pernikahan,Website Pernikahan,Tips membuat website pernikahan,Tutorial Website Wedding Invitation - Part 2 - Door Section

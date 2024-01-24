@@ -1,0 +1,6 @@
+intro
+
+Halo semuanya! Selamat datang kembali di channel Haus Coding!
+
+Sebelum kita ke bagian Background & Ekspresi karakter, kita harus membuat script ceritanya terlebih dahulu.
+apa saja hal struktur pada cerita yang dibutuhkan?

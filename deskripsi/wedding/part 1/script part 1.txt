@@ -1,0 +1,80 @@
+halo selamat datang kembali di channel haus coding
+ini adalah playlist tutorial membuat wedding invitation
+part 1 - assets & bahan
+
+hal apa saja yang akan dilakukan pada part 1
+yg pertama menyiapkan aset dan bahan seperti photo video dan music
+yg kedua menginstall xampp dan sublime text 4
+dan yg terakhir memasang vendor yaitu plugin yg kita gunakan 
+untuk disqus dipasang pada part-part berikutnya
+
+disini aku sudah menyiapkan assetnya
+untuk audio aku menyiapkan efek suara door dan musik wedding
+kita coba dengarkan suara door
+kita coba juga dengarkan musiknya
+
+untuk asset foto di sini ada door left, door right, favicon, foto pengantin, penutup, gif sparkle coba kita preview, untuk background gif ini transparan
+kemudian foto wedding
+selanjutnya di dalam folder timeline yaitu foto awal pertemuan sampai ke jenjang pernikahan
+lalu folder gallery isi dari foto-foto pengantin
+kemudian folder card yaitu untuk gift wedding pengantin 
+oke itu adalah isi dari folder asset
+selanjutnya kita akan menginstall xampp
+buka google chrome
+pilih yang paling atas
+download versi terbaru
+install seperti biasa
+kemudian kita mendownload sublime text
+pilih paling atas
+pilih sublime text 4
+pilih os nya
+download dan install 
+selanjutnya buka folder xampp
+cari xampp-control
+kemudian start apache
+setelah itu buka folder htdocs
+buat folder baru dengan nama wedding
+kemudian kita cut folder asset ke folder wedding tadi
+buka kembali htdocs
+buka sublime
+drag and drop folder wedding tadi
+buat file baru klik kanan new file
+ctrl s
+simpan dengan nama index.html
+kemudian buka kembali google chrome
+ketik getbootstrap.com
+klik read the docs
+untuk step pertama sudah kita lakukan
+kemudian step kedua kita copy
+lalu paste kan di file index.html
+kita ganti title nya
+wedding nobita untuk simbol dan kita ganti dengan icon love shizuka
+selanjutnya kita tambahkan favicon dari folder img
+rel diganti icon
+kita hapus hello world
+kemudian beri komentar ctrl / favicon
+kita beri juga komentar untuk bootstrapnya
+selanjutnya kita akan memasang plugin google font
+buka kembali google chrome ketikan google font
+kita cari font sacra
+klik tombol get font dikanan
+klik logo google font
+kemudian kita cari font work sans
+get font
+get embed code
+one value
+one value
+copy code 
+kita rapihkan dengan cara seleksi ctrl kurung siku tutup 2x
+kemudian kita memasang plugin aos
+animated on scroll
+ke paling bawah
+berikut adalah preview nya
+kita copy css
+dan js nya
+kemudian kita memasang plugin lightbox2
+ketik lightbox2 cdn
+pilih copy script tag
+
+
+

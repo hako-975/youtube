@@ -1,0 +1,10 @@
+intro
+
+Halo semuanya! Selamat datang kembali di channel Haus Coding!
+
+Hari ini aku akan memperkenalkan playlist baru yang berfokus pada pembuatan game Visual Novel Android dengan unity
+
+Pada playlist ini akan mencakup langkah-langkah dasar mulai dari Script, Character, Animation, music, sound effect, background dan masih banyak lagi
+
+oke langsung saja
+
