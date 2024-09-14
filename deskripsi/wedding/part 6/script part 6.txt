@@ -1,0 +1,7 @@
+halo selamat datang kembali di channel haus coding
+ini adalah playlist tutorial membuat wedding invitation
+part 6 - Acara Section
+
+oke langsung saja buka kembali sublime text nya dan jalankan apache xampp nya
+
+terima kasih sudah menonton next kita akan membuat acara section
