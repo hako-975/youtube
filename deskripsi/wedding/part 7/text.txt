@@ -1,5 +1,3 @@
-Judul:
-Tutorial Website Wedding Invitation - Part 6 - Acara Section
 Link Source Code / mentahan:
 https://trakteer.id/hako975/showcase/source-code-website-wedding-responsive-1RSP8
 
@@ -31,19 +29,14 @@ Teknologi yang digunakan:
 Momen:
 0:00 Intro
 0:13 Opening
-0:40 Membuka Sublime Text dan XAMPP
-0:50 Uji coba
-1:30 Memperbaiki teks sudah dimulai
-2:05 Mengganti tanggal
-2:33 Uji coba 2
-2:49 Mengganti title tanggal
-3:17 Membuat Acara Section
-7:38 Membuat Event Link Google Calendar
-8:48 Uji coba 3
-11:00 CSS pada Acara Section
-11:19 JS pada Pembuka Section
-13:40 Uji coba 4
-14:30 Penutup
+0:25 Membuka Sublime Text dan XAMPP
+0:48 Membuat Lokasi Section
+2:29 Membuat Link Google Maps
+3:43 Uji coba 1
+4:10 Membuat iframe Maps
+4:55 CSS pada Lokasi Section
+5:27 Uji coba 2
+5:48 Penutup
 
 Link Download XAMPP:
 https://www.apachefriends.org/download.html
@@ -90,6 +83,3 @@ https://saweria.co/hako975
 
 Hashtag:
 #WeddingInvitation #ResponsiveDesign #WebDevelopment #HTML #CSS #JavaScript #Tutorial #WebDesign #ResponsiveWeddingWebsite #CodeTutorial #FrontendDevelopment #WeddingWebsite #CodingTutorial #DesignTutorial #HTML5 #CSS3 #ResponsiveLayout #WebDevTutorial #WeddingInvitationWebsite #TutorialYouTube #WebsiteDesign #ProgrammingTutorial #Coding #WebsiteTutorial #UIUX #WebProgramming #LearnCoding #WebTutorial #WeddingTech #TechTutorial #DIYWedding #CodeLearning #WeddingPlanning #CodingTips #HTMLTutorial #CSSTutorial #JavaScriptTutorial #WebsiteLayout #DigitalInvitation #ProgrammingTips #ResponsiveUI #FrontendDesign #WeddingTechTips #WebDesignTips #CodingForBeginners #OnlineInvitation #ProgrammingBeginner #WeddingWebsiteDesign #DIYWebsite #TechForWeddings #LearnHTML #LearnCSS #WebDevTips #InvitationDesign #CodeFromScratch #WebsiteDevelopment #DIYTech #CSSLayout #JavaScriptDesign #WeddingInvitationIdeas #TechDIY #CodingJourney #ResponsiveWeb #ProgrammingJourney #WeddingWebsiteIdeas #TechSavvyWedding #WebDevelopmentTips #CodeChallenge #CreativeInvitations #ResponsiveCoding #WeddingTechIdeas #WebsiteBuilding #DIYWebDesign #ProgrammingChallenge #WeddingInvitationDIY #CodingProject #WebDesignIdeas #TechWedding #HTMLCSSJS #DIYWebsiteDesign #CodingSuccess #WeddingTechTrends #WebDevJourney #LearnJavaScript #DIYWebDevelopment #CodingSkills #WebsiteInspiration #TechInWeddings #HTMLCoding #CSSDesign #JavaScriptDevelopment #WeddingTechInspiration #WebDevProject #DIYWebsiteBuilding #ProgrammingInspiration #CreativeWeddingTech #WebsiteCreation #TechSavvyCouples #WeddingInvitationTrends #CodeInspiration
-
-Hashtag:
-Undangan pernikahan online,Desain undangan pernikahan,Membuat website pernikahan,Desain web undangan,Tutorial membuat undangan,Web pernikahan interaktif,Desain undangan modern,Wedding site tutorial,Website undangan interaktif,Tips desain undangan,Membuat web pernikahan unik,Love story website tutorial,Tutorial website pernikahan,Website Pernikahan,Tips membuat website pernikahan,HTML CSS Undangan,Tutorial Website Wedding Invitation - Part 6 - Acara Section

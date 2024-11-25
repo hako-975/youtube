@@ -1,7 +1,11 @@
-halo selamat datang kembali di channel haus coding
+Halo semua, selamat datang kembali di Channel Haus Coding! 
+
 ini adalah playlist tutorial membuat wedding invitation
 part 6 - Acara Section
 
+oke sebelum lanjut, aku mau minta maaf sebelumnya udah lama ngga upload, dikarenakan ada urusan akademik
+dan aku juga mau berterima kasih sebesar-besarnya yang tetep support aku di trakteer dan saweria
+
 oke langsung saja buka kembali sublime text nya dan jalankan apache xampp nya
 
-terima kasih sudah menonton next kita akan membuat acara section
+terima kasih sudah menonton next kita akan membuat lokasi section

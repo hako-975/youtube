@@ -1,0 +1,12 @@
+Halo semua, selamat datang kembali di Channel Haus Coding! 
+
+ini adalah playlist tutorial membuat wedding invitation
+part 7 - Lokasi Section
+
+oke langsung saja buka kembali sublime text nya dan jalankan apache xampp nya
+
+oke ini adalah akhir dari dari video part 7 next kita akan membuat love story section
+jangan lupa subscribe agar tidak ketinggalan video berikutnya
+like jika kalian suka video ini
+komen di Bawah jika ada error atau ada yg ingin ditanyakan
+
